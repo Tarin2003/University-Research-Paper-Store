@@ -1,0 +1,87 @@
+
+  
+  body{
+    margin: 0;
+  }
+  .container{
+    background-color:bisque;
+    position: fixed;
+   width: 100%;
+  }
+  
+  .navbar{
+    background-color: grey;
+   
+   
+    display: flex;
+    position: fixed;
+    width: 100%;
+   justify-content: space-between;
+   align-items: center;
+   top:0;
+  color: white;
+  height: 40px;
+  
+  }
+  h1{
+    background-color:bisque;
+   
+   margin-top: 50px;
+    padding: 20px;
+  margin-left: 20%;
+  width: 50%;
+   
+  color:brown;
+  
+  
+  }
+  
+  .nevbar
+  
+  {
+ background-color: black;
+    
+   
+ display: flex;
+ position: fixed;
+ width: 100%;
+ justify-content: space-between;
+   
+   
+   padding: 20px;
+  
+  
+  }
+  
+    
+    
+    
+   
+      
+      .menubar a{
+          color: white;
+     text-decoration: none;
+    
+     padding: 20px;
+     
+    
+    
+  
+      }
+      
+      .menubar a:hover{
+       
+      
+    background-color: blueviolet;
+      font-size: large;
+    
+      }
+      .menubar a:active{
+        background-color: brown;
+       }
+       
+       .logo img{
+        margin-top: 10%;
+        height: 30%;
+        width: 100%;
+       }

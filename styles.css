@@ -1,0 +1,66 @@
+body{
+  margin: 0;
+}
+  
+  .nevbar
+  
+  {
+ background-color: black;
+    padding: 0px;
+   height: 60px;
+    display: flex;
+    position: fixed;
+    width: 100%;
+   justify-content: space-between;
+   align-items: center;
+   top:0;
+  
+  
+  }
+  
+  .name h1{
+     margin-top: 300px;
+     text-align: center;
+  }
+    
+    
+    
+    .menubar a{
+        color: white;
+   text-decoration: none;
+  
+   padding: 20px;
+  
+  
+
+    }
+    
+    .menubar a:hover{
+     
+    
+  background-color: blueviolet;
+    font-size: large;
+  
+    }
+    .menubar a:active{
+      background-color: brown;
+     }
+    
+    table{
+      width: 100%;
+      
+    }
+    th{
+      background-color: antiquewhite;
+      font-size: large;
+      text-align: center;
+    }
+    td, th {
+      border: 3px solid bisque;
+      text-align: left;
+      padding: 10px;
+     
+    }
+   
+    
+  
