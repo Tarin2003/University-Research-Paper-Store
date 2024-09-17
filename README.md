@@ -6,7 +6,7 @@ This project is to build an application program that students can read and learn
 
 The project consists of 3 main modules as follows:
 
-### 1. Admin
+### 1. Admin Module
 
      Add Teacher: Admin can add new teacher profiles to the system.
    
