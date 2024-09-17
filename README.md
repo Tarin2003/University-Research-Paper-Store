@@ -4,9 +4,9 @@ This project is to build an application program that students can read and learn
 
 Modules:
 
-The project consists of 4 main modules as follows:
+The project consists of 3 main modules as follows:
 
-1. Admin
+# 1. Admin
 
    Add Teacher: Admin can add new teacher profiles to the system.
    
@@ -18,13 +18,13 @@ The project consists of 4 main modules as follows:
    
    View Research Paper: Admin can view any uploaded research papers.
 
-2. Teacher Module:
+# 2. Teacher Module
 
    Teachers must go through a Registration and Login process.
    
    Once logged in, a teacher can Add Research Papers and View Research Papers.
    
-3. Student Module:
+# 3. Student Module
 
    Students also need to go through Registration and Login.
    
